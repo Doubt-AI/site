@@ -1,13 +1,16 @@
-name = "Doubt AI Site"
-license = "No License"
-licenselink = "https://github.com/DoubtAI/site"
-description = "Doubt AI Marketing Site"
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
+name = "Doubt AI"
+license = ""
+licenselink = ""
+description = ""
 homepage = "https://doubt.ai"
-
-tags = ["light", "simple", "blog", "clean", "tailwindcss", "responsive", "company", "modern", "slide"]
-features = ["blog", "slides", "responsive"]
+demosite = ""
+tags = [imple"]
+features = ["Netlify"]
+min_version = "0.71.0"
 
 [author]
-  name = "DoubtAI"
-  homepage = "https://doubt.ai"
+  name = "Cody Carter"
+  homepage = "https://github.com/DoubtAI"
