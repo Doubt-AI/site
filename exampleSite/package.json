@@ -1,10 +1,10 @@
 {
-  "name": "tella",
+  "name": "DoubtAI",
   "version": "0.0.1",
-  "description": "Simple, Light, Responsive",
+  "description": "Doubt AI",
   "main": "index.js",
-  "repository": "https://github.com/opera7133/tella",
-  "author": "wamo <ainznino@pm.me>",
+  "repository": "https://github.com/DoubtAI/site",
+  "author": "Doubt AI",
   "license": "MIT",
   "scripts": {
     "start": "concurrently npm:watch:*",
