@@ -1,22 +1,6 @@
-# Tella
-
-![](https://user-images.githubusercontent.com/39876629/103476491-9d870880-4df9-11eb-9961-98015b19968c.png)
-
-Tella, A Hugo theme for Companies.
-
-The demo can be seen here: https://tella.pages.dev
-
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=opera7133/tella&engine=hugo&version=0.80.0&config=exampleSite)
+# DoubtAI
 
 ## Features
-
-- Responsive
-- Carousel
-- Google Analytics
-- Pagination
-- Syntax Highlight
-- Support categories
-- Disqus
 
 ## Installation
 

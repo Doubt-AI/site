@@ -1,14 +1,13 @@
-name = "Tella"
-license = "MIT"
-licenselink = "https://github.com/opera7133/tella/blob/master/LICENSE"
-description = "Simple, Light, Responsive"
+name = "Doubt AI Site"
+license = "No License"
+licenselink = "https://github.com/DoubtAI/site"
+description = "Doubt AI Marketing Site"
 
-homepage = "https://github.com/opera7133/tella"
-demosite = "https://tella.pages.dev"
+homepage = "https://doubt.ai"
 
 tags = ["light", "simple", "blog", "clean", "tailwindcss", "responsive", "company", "modern", "slide"]
 features = ["blog", "slides", "responsive"]
 
 [author]
-  name = "wamo"
-  homepage = "https://wmsci.com"
+  name = "DoubtAI"
+  homepage = "https://doubt.ai"
