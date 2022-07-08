@@ -4,7 +4,7 @@ command = "hugo -s exampleSite"
 
 [build.environment]
 HUGO_VERSION       = ""
-HUGO_THEME         = "Tella"
+HUGO_THEME         = "repo"
 HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
