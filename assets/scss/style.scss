@@ -72,7 +72,7 @@
 
 // Display breakpoints for DEV
 // body:after {
-//   color: #000000;
+//   color: #808080;
 //   font-size: 12px;
 //   padding: 5px;
 //   font-weight: bold;
@@ -83,7 +83,7 @@
 //   bottom: 10px;
 //   width: 200px;
 //   z-index: 9999;
-//   border: solid 1px #000000;
+//   border: solid 1px #808080;
 //   @each $name, $value in $grid-breakpoints {
 //     @include media-breakpoint-up($name) {
 //       content: "#{$name} - min-width: #{$value}";
