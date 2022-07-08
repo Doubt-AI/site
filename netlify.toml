@@ -3,7 +3,7 @@ publish = "DoubtAI/public"
 command = "hugo -s DoubtAI"
 
 [build.environment]
-HUGO_VERSION       = "0.101.0"
+HUGO_VERSION       = ""
 HUGO_THEME         = "repo"
 HUGO_ENABLEGITINFO = "true"
 
