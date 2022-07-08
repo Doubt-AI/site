@@ -1,8 +1,8 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://doubt.ai/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Doubt AI"
 themesDir = "../.."
-theme = "hugo-hero-theme"
+theme = "doubt-ai-theme"
 
 [module]
   [module.hugoVersion]
@@ -10,7 +10,7 @@ theme = "hugo-hero-theme"
     min = "0.92.0"
     
 [params]
-  google_analytics_id=""
+#  google_analytics_id=""
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
@@ -22,40 +22,31 @@ theme = "hugo-hero-theme"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "Doubt AI"
+    meta_og_title = "Doubt AI"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
+    meta_og_url = ""
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_description = "Doubt AI is as Security Project"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@DoubtAI"
+    meta_twitter_creator = "@DoubtAI"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Products"
+	url = "/Produects/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+    name = "About"
+    url = "https://i.doubt.ai"
     weight = 2
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 3
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

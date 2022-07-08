@@ -1,12 +1,12 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "link": "https://github.com/DoubtAI",
         "image": "social/github.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/DoubtAI",
         "image": "social/twitter.svg"
     }
 ]
