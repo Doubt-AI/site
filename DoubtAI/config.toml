@@ -34,14 +34,13 @@ theme = "doubt-ai-theme"
 
 [[menu.main]]
 	name = "Products"
-	url = "/Produects/"
+	url = "/Products/"
     weight = 1
 
 [[menu.main]]
     name = "About"
     url = "https://i.doubt.ai"
     weight = 2
-
 
 [[menu.main]]
     name = "Contact"
